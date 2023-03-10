@@ -15,7 +15,7 @@
     "postinstall": "patch-package"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^2.0.0",
+    "@cloudflare/workers-types": "^4.0.0",
     "@typescript-eslint/eslint-plugin": "^4.31.2",
     "@typescript-eslint/parser": "^4.31.2",
     "dotenv": "^10.0.0",
