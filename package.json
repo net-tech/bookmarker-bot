@@ -30,7 +30,7 @@
     "typescript": "^5.0.4",
     "webpack": "^5.82.1",
     "webpack-cli": "^5.1.1",
-    "wrangler": "^2.20.0"
+    "wrangler": "^3.0.0"
   },
   "dependencies": {
     "patch-package": "^7.0.0"
